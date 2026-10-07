@@ -62,4 +62,4 @@ O código está sob a licença MIT. Os dados seguem as condições de cada fonte
 
 ## Como citar
 
-Rodrigues, G. B. (2026). *Ilhas de calor urbanas em Cascavel (PR), 1985–2026* [código-fonte]. https://github.com/USUARIO/ilhas-calor-cascavel
+Rodrigues, G. B. (2026). *Ilhas de calor urbanas em Cascavel (PR), 1985–2026* [código-fonte]. https://github.com/guilhermeborzio/ilhas-calor-cascavel
